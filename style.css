@@ -1,0 +1,84 @@
+.jumbo{
+    background-image: url(img1.png);
+    width: 491px;
+    height: 486px;
+   background-repeat: no-repeat;
+
+}
+
+.jumbo h1{
+  margin-left: -140px;
+  font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+letter-spacing: 0.04em;
+
+}
+
+.jumbo p{
+    margin-left: -140px;
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 15px;
+}
+
+.intro h2{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+}
+
+.intro p{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+}
+
+.reg input{
+    border-radius: 20px;
+}
+
+.reg button{
+ width: 328px;
+
+background: #5B9DC2;
+border-radius: 20px;
+}
+
+.section2 h3{
+    font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 16px;
+color: rgba(0, 0, 0, 0.8);
+opacity: 0.8;
+
+}
+
+.google{
+    height:19.67px; 
+    width:19.22px;
+    background-image: url(img2.png);
+    background-repeat: no-repeat;
+}
+
+.facebook{
+    height:19.67px; 
+    width:19.22px;
+    background-image: url(img3.png);
+    background-repeat: no-repeat;
+}
+
+.section3{
+    margin-left: 150px;
+    margin-top: 10px;
+}
