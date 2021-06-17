@@ -13,7 +13,6 @@
 }
 
 .jumbo h1{
-  margin-left: -140px;
   font-family: Montserrat;
 font-style: normal;
 font-weight: 500;
@@ -24,7 +23,6 @@ letter-spacing: 0.04em;
 }
 
 .jumbo p{
-    margin-left: -140px;
     font-family: Montserrat;
 font-style: normal;
 font-weight: normal;
